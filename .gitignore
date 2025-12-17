@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# SQLite DB
+*.db
+*.sqlite3
+
+# VSCode settings (任意)
+.vscode/
